@@ -63,3 +63,82 @@ The production build will generate client and server modules by running both cli
 ```shell
 npm run build # or `yarn build`
 ```
+
+## Fastify Server
+
+This app has a minimal [Fastify server](https://fastify.dev/) implementation. After running a full build, you can preview the build using the command:
+
+```
+npm run serve
+```
+
+Then visit [http://localhost:3000/](http://localhost:3000/)
+
+## Node Server
+
+This app has a minimal zero-dependencies server. Using the built-in `http.createServer` API.
+This should be faster and less overhead than Express or other frameworks.
+
+After running a full build, you can preview the build using the command:
+
+```
+npm run serve
+```
+
+Then visit [http://localhost:3004/](http://localhost:3004/)
+
+## Express Server
+
+This app has a minimal [Express server](https://expressjs.com/) implementation. After running a full build, you can preview the build using the command:
+
+```
+npm run serve
+```
+
+Then visit [http://localhost:8080/](http://localhost:8080/)
+
+## Fastify Server
+
+This app has a minimal [Fastify server](https://fastify.dev/) implementation. After running a full build, you can preview the build using the command:
+
+```
+npm run serve
+```
+
+Then visit [http://localhost:3000/](http://localhost:3000/)
+
+## Node Server
+
+This app has a minimal zero-dependencies server. Using the built-in `http.createServer` API.
+This should be faster and less overhead than Express or other frameworks.
+
+After running a full build, you can preview the build using the command:
+
+```
+npm run serve
+```
+
+Then visit [http://localhost:3004/](http://localhost:3004/)
+
+## Node Server
+
+This app has a minimal zero-dependencies server. Using the built-in `http.createServer` API.
+This should be faster and less overhead than Express or other frameworks.
+
+After running a full build, you can preview the build using the command:
+
+```
+npm run serve
+```
+
+Then visit [http://localhost:3004/](http://localhost:3004/)
+
+## Express Server
+
+This app has a minimal [Express server](https://expressjs.com/) implementation. After running a full build, you can preview the build using the command:
+
+```
+npm run serve
+```
+
+Then visit [http://localhost:8080/](http://localhost:8080/)
